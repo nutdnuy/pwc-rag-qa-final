@@ -1,0 +1,10 @@
+Remote Work Policy (Excerpt)
+
+1. Eligibility: Full-time employees with at least 90 days tenure may request remote work. Contractors require manager approval.
+2. Working Hours: Core hours are 10:00–16:00 local time. Flex hours outside core are permitted with team alignment.
+3. Security: Use company-managed devices with disk encryption, auto-lock after 5 minutes idle, and VPN for all external connections.
+4. Data Handling: Customer PII must never be stored locally. Access is only via approved SaaS with audit logging enabled.
+5. Travel: Company reimburses essential travel for client meetings with pre-approval. Per diem rates follow Finance guidelines.
+6. Equipment: Company provides laptop and one monitor. Additional peripherals require a business case and manager approval.
+7. Performance: Remote performance expectations match on-site. Communication via Slack and weekly 1:1s are required.
+8. Exceptions: Managers may grant exceptions for critical incidents with Security sign-off.
