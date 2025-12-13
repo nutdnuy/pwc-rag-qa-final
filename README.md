@@ -25,10 +25,6 @@ python qa.py --question "What are the core working hours?"
 uvicorn main:app --reload
 ```
 
-## AI Usage Log
-- Tool: ChatGPT
-- Used for: initial scaffold and edge-case review
-- Verification: ran CLI and API with example questions
 
 
 ## Refusal policy & confidence
