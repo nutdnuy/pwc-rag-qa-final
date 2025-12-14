@@ -1,4 +1,4 @@
-# Lightweight RAG Q&A (PwC Technical Test)
+# Lightweight RAG Q&A 
 
 ## Approach
 - Chunk policy.txt into overlapping word windows
